@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./lib.component.css']
 })
 export class LibComponent {
-  name = 'Angular Library';
+  name = 'angular library';
 }
